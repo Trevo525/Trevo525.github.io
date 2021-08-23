@@ -2,7 +2,7 @@
 title:               Trevo525
 tagline:             'Trevor Vances Github Page'
 description:         'A place for Trevor to organize pages, guides, and blog posts.'
-url:                 http://localhost:4000/
+url:                 https://Trevo525.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
