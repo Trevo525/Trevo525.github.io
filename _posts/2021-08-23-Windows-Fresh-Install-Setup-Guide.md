@@ -8,7 +8,7 @@ tags: [guide, windows, setup]
 summary: Guide to help setup Windows after a clean install.
 ---
 
-This guide is intended to help setup a fresh install of Windows. Basically a personal checklist but I made it public so that other people can benefit from it as well. I will look at Pull requests but, if you don't explain why your changes are better, I will most likely reject it.
+This guide is intended to help setup a fresh install of Windows. Basically a personal checklist but I made it public so that other people can benefit from it as well.
 
 **Note**: Any article linked in this guide will be followed by [[A](https://web.archive.org/)]. This is an Archive.org link through their [Wayback Machine](https://web.archive.org/) service. This allows me to save the exact state of the article. If in the future, any links break, the [[A](https://web.archive.org/)] can be used to see what I saw at the time of adding the article to this guide. I would still use the regular links first and keep the Wayback Machine link as a backup just in case they make any corrections that might be helpful.
 
