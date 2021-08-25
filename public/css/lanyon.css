@@ -448,17 +448,60 @@ a.pagination-item:hover {
   color: #ac4142;
 }
 
-/* Red Custom */
+
+
+
+
+/* Dark mode Red Custom */
 .theme-base-08-cust .sidebar,
 .theme-base-08-cust .sidebar-toggle:active,
 .theme-base-08-cust #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  /* Background color of sidebar */
+  background-color: #560319;
 }
+
+.theme-base-08-cust .sidebar-toggle {
+  /* Color of sidebar toggle when not clicked */
+  background-color: #555555;
+}
+.theme-base-08-cust .sidebar-toggle::before {
+  /* Background image of sidebar toggle */
+  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='%23fff' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat;
+}
+
 .theme-base-08-cust .container a,
 .theme-base-08-cust .sidebar-toggle,
 .theme-base-08-cust .related-posts li a:hover {
-  color: #ac4142;
+  /* Link text color */
+  color: #FB7777;
 }
+
+.theme-base-08-cust {
+  /* Background color of page. (Dark mode) */
+  background-color: black;
+}
+
+.theme-base-08-cust .post,
+.theme-base-08-cust .page,
+.theme-base-08-cust strong {
+  /* Text color of <strong> tagged text and normal text*/
+  color: #FFFFFF;
+}
+
+.theme-base-08-cust .masthead-title a,/* Page Title at the top */
+.theme-base-08-cust h1, 
+.theme-base-08-cust h2, 
+.theme-base-08-cust h3, 
+.theme-base-08-cust h4, 
+.theme-base-08-cust h5, 
+.theme-base-08-cust h6 {
+  /* Text color of Headers */
+  color: #ff0f0f;
+}
+
+
+
+
 
 /* Orange */
 .theme-base-09 .sidebar,
